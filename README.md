@@ -10,4 +10,4 @@ I built a serverless data engineering pipeline using a variety of AWS functional
 Referenced from: https://github.com/noahgift/awslambda
 
 ## Demo
-![Demo](https://youtu.be/0XVSyvwcDo8)
+[Demo](https://youtu.be/0XVSyvwcDo8)
